@@ -1,0 +1,17 @@
+==== statistic of raw data ====
+#users: 485381
+#items: 83999
+#actions: 1021966
+==== statistic of processed data (whole) ====
+#users: 22748
+#items: 11146
+#actions: 145106
+density: 0.0006
+min #actions per user: 5.00
+max #actions per user: 25.00
+ave #actions per user: 6.38
+==== statistic of processed data (split) ====
+#train_users: 22748
+#train_items: 10218
+#valid_users: 22143
+#test_users: 21535
